@@ -1,0 +1,14 @@
+{
+  "name": "MoonBounce-web",
+  "short_name": "MoonBounce",
+  "start_url": "/MoonBounce-web/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color":"#ffffff",
+  "icons": [
+    {
+      "src": "red-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }]
+}
