@@ -1,6 +1,6 @@
 # MoonBounce
 ## Demo
-https://qgcarver.github.io/MoonBounce-web (Only works with touchscreens)
+https://qgcarver.github.io/MoonBounce (Only works with touchscreens)
 ### Miller Column object viewer
 ![demo](https://github.com/qgcarver/MoonBounce-web/blob/main/Screenshot_20240915_050341_Chrome.jpg)
 ### WebGL graphics with HTML5 Canvas
